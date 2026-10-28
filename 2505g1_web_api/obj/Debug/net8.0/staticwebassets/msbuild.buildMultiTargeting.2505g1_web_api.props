@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\2505g1_web_api.props" />
+</Project>

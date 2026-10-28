@@ -1,0 +1,14 @@
+database:
+DB First
+	Database
+	Nuget Packages
+		EntityFrameworkCore.sqlserver
+		EntityFrameworkCore.tools
+		VisualStudio.webcodegeneration.design
+	Scaffold 
+	 cmd: Scaffold-DbContext "Data Source=.;Initial Catalog=2505G1_WebAPI;User ID=sa;Password=aptech;Trust Server Certificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models	
+	 changes:  cmd: Scaffold-DbContext "Data Source=.;Initial Catalog=MVCT3;User ID=sa;Password=aptech;Trust Server Certificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models	 --F
+Code First
+	Models & DB Context
+	Packages
+	Migration / Update
