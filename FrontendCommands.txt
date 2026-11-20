@@ -1,0 +1,8 @@
+ng new frontend
+
+ng generate service services/PlayerService
+ng generate service services/TeamService
+
+ng generate component Team
+ng generate component Player
+ng serve --o

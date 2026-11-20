@@ -1,0 +1,92 @@
+
+<div class="page">
+
+  <h1>Add New Player</h1>
+  <p>Enter the details of your cricket player.</p>
+
+  @if (errorMessage()) {
+    <div class="error">
+      {{ errorMessage() }}
+    </div>
+  }
+
+  <section class="form-section">
+
+    <form [formGroup]="playerForm" (ngSubmit)="addPlayer()">
+
+      <div class="form-grid">
+
+        <div class="form-field">
+          <label>Player Name</label>
+          <input type="text" formControlName="name"
+                 placeholder="Enter player name">
+
+          @if (playerForm.controls.name.touched &&
+               playerForm.controls.name.invalid) {
+            <small>Player name is required.</small>
+          }
+        </div>
+
+        <div class="form-field">
+          <label>Playing Style</label>
+          <input type="text" formControlName="style"
+                 placeholder="Right Handed">
+
+          @if (playerForm.controls.style.touched &&
+               playerForm.controls.style.invalid) {
+            <small>Playing style is required.</small>
+          }
+        </div>
+
+        <div class="form-field">
+          <label>Player Type</label>
+          <input type="text" formControlName="type"
+                 placeholder="Batsman / Bowler / All-rounder">
+
+          @if (playerForm.controls.type.touched &&
+               playerForm.controls.type.invalid) {
+            <small>Player type is required.</small>
+          }
+        </div>
+
+        <div class="form-field">
+          <label>Runs</label>
+          <input type="number" formControlName="runs">
+        </div>
+
+        <div class="form-field">
+          <label>Strike Rate</label>
+          <input type="number" step="0.01"
+                 formControlName="strikeRate">
+        </div>
+
+        <div class="form-field">
+          <label>Average</label>
+          <input type="number" step="0.01"
+                 formControlName="average">
+        </div>
+
+        <div class="form-field">
+          <label>Team ID</label>
+          <input type="number" formControlName="teamId">
+        </div>
+
+      </div>
+
+      <div class="form-actions">
+
+        <button type="submit" [disabled]="saving()">
+          {{ saving() ? 'Saving...' : 'Add Player' }}
+        </button>
+
+        <a routerLink="/players" class="cancel">
+          Cancel
+        </a>
+
+      </div>
+
+    </form>
+
+  </section>
+
+</div>

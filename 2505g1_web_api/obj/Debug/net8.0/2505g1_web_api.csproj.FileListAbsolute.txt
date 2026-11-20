@@ -254,3 +254,4 @@ C:\Users\harisnaseer\OneDrive\Desktop\Batches\2505G1\Web API\2505g1_web_api\bin\
 C:\Users\harisnaseer\OneDrive\Desktop\Batches\2505G1\Web API\2505g1_web_api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\harisnaseer\OneDrive\Desktop\Batches\2505G1\Web API\2505g1_web_api\obj\Debug\net8.0\2505g1_web_api.csproj.AssemblyReference.cache
 C:\Users\harisnaseer\OneDrive\Desktop\Batches\2505G1\Web API\2505g1_web_api\obj\Debug\net8.0\2505g1_w.CE25036B.Up2Date
+C:\Users\harisnaseer\OneDrive\Desktop\Batches\2505G1\Web API\2505g1_web_api\obj\Debug\net8.0\2505g1_web_api.sourcelink.json

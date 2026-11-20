@@ -1,0 +1,101 @@
+
+<div class="page">
+
+  <div class="page-header">
+
+    <div>
+      <h1>Player Management</h1>
+      <p>Manage your cricket players.</p>
+    </div>
+
+    <a  class="add-button" routerLink="/players/add" >
+      + Add Player
+    </a>
+
+  </div>
+
+  @if (successMessage()) {
+    <div class="success">
+      {{ successMessage() }}
+    </div>
+  }
+
+  @if (errorMessage()) {
+    <div class="error">
+      {{ errorMessage() }}
+    </div>
+  }
+
+  <section class="table-section">
+
+    <h2>Players List</h2>
+
+    @if (loading()) {
+      <p>Loading players...</p>
+    }
+
+    @else if (players().length > 0) {
+
+      <div class="table-wrapper">
+
+        <table>
+
+          <thead>
+            <tr>
+              <th>ID</th>
+              <th>Name</th>
+              <th>Style</th>
+              <th>Type</th>
+              <th>Runs</th>
+              <th>Strike Rate</th>
+              <th>Average</th>
+              <th>Team ID</th>
+              <th>Actions</th>
+            </tr>
+          </thead>
+
+          <tbody>
+
+            @for (player of players(); track $index) {
+
+              <tr>
+
+                <td>{{ player.playerId }}</td>
+                <td>{{ player.name }}</td>
+                <td>{{ player.style }}</td>
+                <td>{{ player.type }}</td>
+                <td>{{ player.runs }}</td>
+                <td>{{ player.strikeRate }}</td>
+                <td>{{ player.average }}</td>
+                <td>{{ player.teamId }}</td>
+
+                <td class="actions">
+ <a class="view-button">
+    View
+  </a>
+ <a class="edit-button">
+                    Edit
+                  </a>
+                  <button
+                    type="button"
+                    class="delete-button"
+                    (click)="deletePlayer(player.playerId)"
+                    >
+                    Delete
+                  </button>
+                </td>
+              </tr>
+            }
+
+          </tbody>
+        </table>
+      </div>
+
+    }
+
+    @else if (!loading() && !errorMessage()) {
+      <p>No players found. Add your first player!</p>
+    }
+  </section>
+
+</div>

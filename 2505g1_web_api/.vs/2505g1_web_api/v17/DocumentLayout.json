@@ -3,35 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Batches\\2505G1\\Web API\\2505g1_web_api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A52A864-AF08-448B-83ED-C9CD88A39B6C}|2505g1_web_api.csproj|c:\\users\\harisnaseer\\onedrive\\desktop\\batches\\2505g1\\web api\\2505g1_web_api\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A52A864-AF08-448B-83ED-C9CD88A39B6C}|2505g1_web_api.csproj|solutionrelative:controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A52A864-AF08-448B-83ED-C9CD88A39B6C}|2505g1_web_api.csproj|c:\\users\\harisnaseer\\onedrive\\desktop\\batches\\2505g1\\web api\\2505g1_web_api\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A52A864-AF08-448B-83ED-C9CD88A39B6C}|2505g1_web_api.csproj|solutionrelative:models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A52A864-AF08-448B-83ED-C9CD88A39B6C}|2505g1_web_api.csproj|c:\\users\\harisnaseer\\onedrive\\desktop\\batches\\2505g1\\web api\\2505g1_web_api\\models\\dtos\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A52A864-AF08-448B-83ED-C9CD88A39B6C}|2505g1_web_api.csproj|solutionrelative:models\\dtos\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A52A864-AF08-448B-83ED-C9CD88A39B6C}|2505g1_web_api.csproj|c:\\users\\harisnaseer\\onedrive\\desktop\\batches\\2505g1\\web api\\2505g1_web_api\\2505g1_web_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{7A52A864-AF08-448B-83ED-C9CD88A39B6C}|2505g1_web_api.csproj|solutionrelative:2505g1_web_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A52A864-AF08-448B-83ED-C9CD88A39B6C}|2505g1_web_api.csproj|c:\\users\\harisnaseer\\onedrive\\desktop\\batches\\2505g1\\web api\\2505g1_web_api\\models\\_2505g1webapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A52A864-AF08-448B-83ED-C9CD88A39B6C}|2505g1_web_api.csproj|solutionrelative:models\\_2505g1webapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./2505G1_WebAPI/sa/SqlTable/dbo.Teams.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7A52A864-AF08-448B-83ED-C9CD88A39B6C}|2505g1_web_api.csproj|c:\\users\\harisnaseer\\onedrive\\desktop\\batches\\2505g1\\web api\\2505g1_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A52A864-AF08-448B-83ED-C9CD88A39B6C}|2505g1_web_api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A52A864-AF08-448B-83ED-C9CD88A39B6C}|2505g1_web_api.csproj|c:\\users\\harisnaseer\\onedrive\\desktop\\batches\\2505g1\\web api\\2505g1_web_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A52A864-AF08-448B-83ED-C9CD88A39B6C}|2505g1_web_api.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,101 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "2505g1_web_api.csproj",
-              "DocumentMoniker": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Batches\\2505G1\\Web API\\2505g1_web_api\\2505g1_web_api.csproj",
-              "RelativeDocumentMoniker": "2505g1_web_api.csproj",
-              "ToolTip": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Batches\\2505G1\\Web API\\2505g1_web_api\\2505g1_web_api.csproj",
-              "RelativeToolTip": "2505g1_web_api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-26T04:10:52.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TeamDTO.cs",
-              "DocumentMoniker": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Batches\\2505G1\\Web API\\2505g1_web_api\\Models\\DTOs\\TeamDTO.cs",
-              "RelativeDocumentMoniker": "Models\\DTOs\\TeamDTO.cs",
-              "ToolTip": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Batches\\2505G1\\Web API\\2505g1_web_api\\Models\\DTOs\\TeamDTO.cs",
-              "RelativeToolTip": "Models\\DTOs\\TeamDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T15:10:39.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Team.cs",
-              "DocumentMoniker": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Batches\\2505G1\\Web API\\2505g1_web_api\\Models\\Team.cs",
-              "RelativeDocumentMoniker": "Models\\Team.cs",
-              "ToolTip": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Batches\\2505G1\\Web API\\2505g1_web_api\\Models\\Team.cs",
-              "RelativeToolTip": "Models\\Team.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T14:30:27.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "dbo.Teams.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/./2505G1_WebAPI/sa/SqlTable/dbo.Teams.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/./2505G1_WebAPI/sa/SqlTable/dbo.Teams.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-10-23T15:03:24.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Batches\\2505G1\\Web API\\2505g1_web_api\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Batches\\2505G1\\Web API\\2505g1_web_api\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T14:31:14.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_2505g1WebApiContext.cs",
-              "DocumentMoniker": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Batches\\2505G1\\Web API\\2505g1_web_api\\Models\\_2505g1WebApiContext.cs",
-              "RelativeDocumentMoniker": "Models\\_2505g1WebApiContext.cs",
-              "ToolTip": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Batches\\2505G1\\Web API\\2505g1_web_api\\Models\\_2505g1WebApiContext.cs",
-              "RelativeToolTip": "Models\\_2505g1WebApiContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAwAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T14:29:53.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TeamController.cs",
-              "DocumentMoniker": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Batches\\2505G1\\Web API\\2505g1_web_api\\Controllers\\TeamController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TeamController.cs",
-              "ToolTip": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Batches\\2505G1\\Web API\\2505g1_web_api\\Controllers\\TeamController.cs",
-              "RelativeToolTip": "Controllers\\TeamController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAkwEkAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T14:24:26.893Z",
+              "WhenOpened": "2026-11-11T04:13:15.494Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Batches\\2505G1\\Web API\\2505g1_web_api\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\harisnaseer\\OneDrive\\Desktop\\Batches\\2505G1\\Web API\\2505g1_web_api\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAABOwBQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T14:54:37.158Z"
             }
           ]
         }
